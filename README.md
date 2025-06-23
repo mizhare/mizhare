@@ -7,8 +7,9 @@ I am a data professional with a strong passion for solving problems of all kinds
 
 Would you like to know more about my projects? Suggestions are welcome! :] </p>
 <a href="https://www.linkedin.com/in/kamilagenuino/"><img src="https://img.shields.io/badge/linkedin-%23ff91a4.svg?&style=for-the-badge&logo=linkedin&logoColor=ffffff" /></a>
-<img src= "https://img.shields.io/badge/R-ff91a4?style=for-the-badge&logo=r&logoColor=ffffff" />
 <img src= "https://img.shields.io/badge/Python-ff91a4?style=for-the-badge&logo=python&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-ff91a4?style=for-the-badge&logo=microsoft-excel&logoColor=ffffff"/>
+<img src= "https://img.shields.io/badge/R-ff91a4?style=for-the-badge&logo=r&logoColor=ffffff" />
 <img src= "https://img.shields.io/badge/PostgreSQL-ff91a4?style=for-the-badge&logo=postgresql&logoColor=ffffff"/>
 <img src= "https://img.shields.io/badge/Databricks-ff91a4?style=for-the-badge&logo=Databricks&logoColor=ffffff" />
 <a href="https://wakatime.com/@e64fec79-7009-4f6e-a07f-3b0d93f93997"><img src="https://wakatime.com/badge/user/e64fec79-7009-4f6e-a07f-3b0d93f93997.svg" alt="Total time coded since Sep 19 2024" /></a>
